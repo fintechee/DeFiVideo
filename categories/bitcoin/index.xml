@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bitcoin on DeFi Videos</title>
+    <link>https://www.defi.video/categories/bitcoin/</link>
+    <description>Recent content in Bitcoin on DeFi Videos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.defi.video/categories/bitcoin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DeFi.Video is a tutorial videos website that focuses on DeFi industry, sponsored by Fintechee &amp; XCoinCH.</title>
+      <link>https://www.defi.video/blog/post-10/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.defi.video/blog/post-10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
