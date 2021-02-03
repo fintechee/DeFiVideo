@@ -268,10 +268,25 @@
           href="/categories/bitcoin-options">Bitcoin options</a>
       </li>
       <li><a
+          href="/categories/coinbase-shut-down">Coinbase shut down</a>
+      </li>
+      <li><a
           href="/categories/contract-quant">Contract quant</a>
       </li>
       <li><a
+          href="/categories/digital-assets-news">Digital assets news</a>
+      </li>
+      <li><a
           href="/categories/east-west-bank">East west bank</a>
+      </li>
+      <li><a
+          href="/categories/fintechee-basic">Fintechee basic</a>
+      </li>
+      <li><a
+          href="/categories/fintechee-ea">Fintechee ea</a>
+      </li>
+      <li><a
+          href="/categories/fintechee-indicator">Fintechee indicator</a>
       </li>
       <li><a
           href="/categories/grid-trading">Grid trading</a>
@@ -296,6 +311,9 @@
       </li>
       <li><a
           href="/categories/swap">Swap</a>
+      </li>
+      <li><a
+          href="/categories/xcoinch-basic">Xcoinch basic</a>
       </li>
     </ul>
   </div>
@@ -387,10 +405,25 @@
               href="/categories/bitcoin-options">Bitcoin options</a>
           </li>
           <li class="mb-3"><a class="text-dark"
+              href="/categories/coinbase-shut-down">Coinbase shut down</a>
+          </li>
+          <li class="mb-3"><a class="text-dark"
               href="/categories/contract-quant">Contract quant</a>
           </li>
           <li class="mb-3"><a class="text-dark"
+              href="/categories/digital-assets-news">Digital assets news</a>
+          </li>
+          <li class="mb-3"><a class="text-dark"
               href="/categories/east-west-bank">East west bank</a>
+          </li>
+          <li class="mb-3"><a class="text-dark"
+              href="/categories/fintechee-basic">Fintechee basic</a>
+          </li>
+          <li class="mb-3"><a class="text-dark"
+              href="/categories/fintechee-ea">Fintechee ea</a>
+          </li>
+          <li class="mb-3"><a class="text-dark"
+              href="/categories/fintechee-indicator">Fintechee indicator</a>
           </li>
           <li class="mb-3"><a class="text-dark"
               href="/categories/grid-trading">Grid trading</a>
@@ -415,6 +448,9 @@
           </li>
           <li class="mb-3"><a class="text-dark"
               href="/categories/swap">Swap</a>
+          </li>
+          <li class="mb-3"><a class="text-dark"
+              href="/categories/xcoinch-basic">Xcoinch basic</a>
           </li>
         </ul>
       </div>
@@ -470,6 +506,14 @@
   loadVids();
 
   function loadVids() {
+    var fintecheeBasicPlaylistId = 'PLcSxiblkIq5K-9YijsCjlLVBsGOE75mzI';
+    var fintecheeIndiPlaylistId = 'PLcSxiblkIq5LHAiPZ5okk_dBC-HIEDvWR';
+    var fintecheeEaPlaylistId = 'PLcSxiblkIq5Jp8sGbq3paQpPY_BrwklX6';
+    var xcoinchBasicPlaylistId = 'PLcSxiblkIq5K5XFcajLKLEAaKrgfjiscX';
+
+    var daNewsPlaylistId = 'PLS_SLPE2RDFbkRgPqmn6CPlnDI7uIXNlv';
+    var daNewsPlaylistId2 = 'PLS_SLPE2RDFZ4fFUl-7XyrKr3TMbDODHC';
+
     var playlistId = 'PLcSxiblkIq5K-9YijsCjlLVBsGOE75mzI';
     var playlistId1 = 'PLcSxiblkIq5LHAiPZ5okk_dBC-HIEDvWR';
     var playlistId2 = 'PLcSxiblkIq5Jp8sGbq3paQpPY_BrwklX6';
@@ -502,7 +546,19 @@
         var category = fullpath[2].toLowerCase()
 
         if (categories == "categories" && category != "") {
-          if (category == "swap") {
+          if (category == "fintechee-basic") {
+            options.playlistId = fintecheeBasicPlaylistId
+          } else if (category == "fintechee-indicator") {
+            options.playlistId = fintecheeIndiPlaylistId
+          } else if (category == "fintechee-ea") {
+            options.playlistId = fintecheeEaPlaylistId
+          } else if (category == "xcoinch-basic") {
+            options.playlistId = xcoinchBasicPlaylistId
+          } else if (category == "digital-assets-news") {
+            options.playlistId = daNewsPlaylistId
+          } else if (category == "coinbase-shut-down") {
+            options.playlistId = daNewsPlaylistId2
+          } else if (category == "swap") {
             options.playlistId = playlistId
           } else if (category == "indicators") {
             options.playlistId = playlistId1
