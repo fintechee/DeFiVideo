@@ -1,209 +1,127 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.defi.video/categories/</loc>
     <lastmod>2021-02-03T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/</loc>
     <lastmod>2021-02-03T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.defi.video/blog/fintechee/</loc>
-    <lastmod>2021-02-03T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/blog/fintechee1/</loc>
     <lastmod>2021-02-03T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/blog/fintechee2/</loc>
     <lastmod>2021-02-03T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/blog/fintechee3/</loc>
     <lastmod>2021-02-03T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/categories/fintechee-basic/</loc>
     <lastmod>2021-02-03T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/categories/fintechee-ea/</loc>
     <lastmod>2021-02-03T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/categories/fintechee-indicator/</loc>
     <lastmod>2021-02-03T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.defi.video/blog/fintechee/</loc>
+    <lastmod>2021-02-03T00:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://www.defi.video/categories/xcoinch-basic/</loc>
     <lastmod>2021-02-03T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/about/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/categories/airdrops-giveaways/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/categories/bitcoin-simplified/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/categories/blockchain-tutorials/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/categories/coinbase-shut-down/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/categories/crypto-corner/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/categories/crypto-dictionary/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/blog/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/blog/danews/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/blog/danews1/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/blog/ojordan/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/blog/ojordan1/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/blog/ojordan10/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/blog/ojordan2/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/blog/ojordan3/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/blog/ojordan4/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/blog/ojordan5/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/blog/ojordan6/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/blog/ojordan7/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/blog/ojordan8/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/blog/ojordan9/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/categories/digital-assets-news/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/categories/etc/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/categories/eth/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/categories/exchanges/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/contact/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/categories/ledger-nano-tutorials/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/categories/litecoin/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/categories/wallets/</loc>
     <lastmod>2021-01-15T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.defi.video/tags/</loc>
   </url>
-  
 </urlset>
